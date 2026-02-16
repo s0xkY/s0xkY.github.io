@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on --- s0xkY Blog ---</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on --- s0xkY Blog ---</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Cybersecurity-Themed Hugo Blog Setup Guide</title>
+      <link>http://localhost:1313/posts/cybersecurity_hugo_blog_setup/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cybersecurity_hugo_blog_setup/</guid>
+      <description>🚀 Custom Cybersecurity-Themed Hugo Blog&#xD;I have created a custom cybersecurity-themed Hugo blog website, originally forked from hugo-winston-theme. It has been fully customized and transformed into a cybersecurity theme.&#xA;This template is ready to use—no Hugo setup required! You can see a live demo here: FadedHood Blog. Below is the GitHub template for setting up your own blog:&#xA;https://github.com/anonfaded/hugo-winston-cyber Open the above link to access the GitHub template, and follow the steps below to get your website live within minutes.</description>
+    </item>
+  </channel>
+</rss>
